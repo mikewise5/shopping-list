@@ -8,3 +8,6 @@
 -Ice cream
 -Chocolate bars
 -Pizza
+-Dates
+-Tabasco
+-Melon
